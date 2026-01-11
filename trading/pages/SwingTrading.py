@@ -13,6 +13,11 @@ def swingTrading():
     st.markdown("* Medium-Term Focus")
     st.markdown("* Days to weeks")
 
+    st.markdown("*The primary difference between day trading and swing trading is the holding period for a position. Day traders open and close positions within the same trading day to profit from small, frequent price movements, while swing traders hold positions for several days to a few weeks to capture larger price 'swings'.*")
+
+    st.markdown("*The primary difference between day trading and swing trading is the holding period for a position. Day traders open and close positions within the same trading day to profit from small, frequent price movements, while swing traders hold positions for several days to a few weeks to capture larger price 'swings'.*")
+    st.markdown("*Many traders use a combination of both styles depending on market conditions*")
+
 def main():
     SidebarNav()
     swingTrading()

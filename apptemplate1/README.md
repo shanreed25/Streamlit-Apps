@@ -4,6 +4,7 @@
 2. `uv add streamlit`
 3. **Navigation:** Configure Streamlit application to hide the multi-page navigation menu from the client's view
     - add `config.toml` file to  `.streamlit` folder
+    - the `.streamlit` folder is the designated location where Streamlit looks for global configuration files for your specific project
     ```python
     # config.toml file
     [client]
