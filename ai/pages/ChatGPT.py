@@ -17,9 +17,8 @@ def main():
         - this saves your chat history
         - then you can recall it in a different session
         - also used to train the model and customize responses
-    - :green[**Custom Instructions**] :
-    - Settings > Privacy > Data Sharing: adjust according to your preference.
-    3. Start using ChatGPT for your applications!
+    - :green[**Custom Instructions**] : Settings > Custom Instructions
+        - set your preferences for how ChatGPT responds and what it knows about you
                 """)
 if __name__ == "__main__":
     main()
