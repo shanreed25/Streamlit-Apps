@@ -10,31 +10,23 @@ def main():
     
     st.markdown("""
     #### :rainbow[TADAA Prompting Framework]
-    **A step-by-step guide to teaching AI tools to write in your authentic voice. Because your voice is your power, and these tools should amplify it, not erase it.**
-    - :orange[**T**]:green[rain] : Before creating a prompt, train the AI on relevant information or context
-    - :orange[**A**]:green[sk] : Clearly state the task or question you want the AI to address.
-    - :orange[**D**]:green[igging Deeper] : Provide additional details, constraints, or examples to refine the AI's understanding.
-    - :orange[**A**]:green[dditional Content] : Include any supplementary information that may help the AI generate a more accurate response.
-    - :orange[**A**]:green[ssemble] : Combine all the elements into a coherent prompt for the AI to process.
+    - :orange[**T**]:green[rain]
+        - before creating a prompt, train the AI on relevant information or context
+    - :orange[**A**]:green[sk]
+        - clearly state the task or question you want the AI to address.
+    - :orange[**D**]:green[igging Deeper]
+        - provide additional details, constraints, or examples to refine the AI's understanding.
+    - :orange[**A**]:green[dditional Content]
+        - get the AI to incorporate more information or context as needed.
+    - :orange[**A**]:green[ssemble]
+        - combine all the elements into a coherent prompt for the AI to process.
                 """)
-    
-    st.markdown("""
-    ## :rainbow[Step 1: Gather Your Materials]
-                """)
+    st.divider()
+
     st.markdown("""
     ## :rainbow[Step 2: TRAIN]
-    **Feed Your Voice to AI**
-    #### :green[Example Prompt 1]
-    :blue[**"I would like for you to write for me as my ghostwriter. I will be giving you my bio and two 
-            [transcripts of trainings / articles i have written] so that you can learn
-            about me and learn my writing and teaching style and tone so that you can 
-            write for me as me. Do you understand?"**]
-    
-    :red[**Then provide the AI with your bio and 2-3 samples of your actual work**]
-                
-    #### :green[Example Prompt 2]
     :blue[**"I want you to be my ghostwriter. I'm sharing my bio and [2-3] samples 
-        of my actual work — transcripts, articles, or content I've created. 
+        of my actual work such as transcripts, articles, or content I've created. 
         Study these carefully. Learn my voice, my rhythm, my way of connecting
         with people. Pay attention to how I structure thoughts, what words I 
         choose, and how I make people feel. Do you understand?"**]
@@ -46,11 +38,21 @@ def main():
 
     st.markdown("""
     ## :rainbow[Step 3: ASK]
+    :blue[**"How would you describe my writing style and tone? How would you describe my content
+             style to someone who wanted to write exactly like me? What phrases do I use often? 
+             How do I usually start and end my content? Etc**]
+                
+    :red[**Save this analysis, you'll need it for the next step.**]
                     """)
     
 
     st.markdown("""
     ## :rainbow[Step 4: DIGGING DEEPER]
+    :blue[**"Take that analysis and rewrite it in first person, as if I'm giving instructions to my
+             ghostwriter. Make it sound like me talking about my own voice. Start with 'I write 
+             from...' or 'My voice is...' Keep my authentic tone throughout."**]
+                
+    :red[**This becomes your custom voice guide.**]
                     """)
     
 
