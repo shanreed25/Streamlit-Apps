@@ -34,7 +34,11 @@ def hedraVideo():
     st.markdown("### :rainbow[Creating a Video with Hedra]")
     st.markdown("""
                 #### :green[Example Prompt ]
-                :blue[**""**]
+                :blue[**"The woman faces the camera and begins speaking after a brief natural pause, wearing a warm, confident smile. 
+                As she talks, she uses relaxed, expressive hand gestures to emphasize key points without overexaggeration. Her head 
+                and upper body move naturally—small nods, gentle tilts, and slight shifts that reflect engagement and thoughtfulness. 
+                Her facial expressions are lively yet controlled, with expressive eyes that stay facing forward and natural mouth movements, creating a 
+                conversational, authentic, human-like delivery that feels approachable and professional."**]
 
                 """)
 
@@ -47,6 +51,14 @@ def hedraVideo2():
         st.markdown("""
                 ### :rainbow[Step 2: **Start Creating**]
                 """)
+        
+
+
+#         My goal for learning AI is to turn my ideas into things people actually want to use, share, and pay for. I want to create content that blends creativity with technical insight.
+
+# Professionally I want to use it to prototype ideas faster, build small products and tools on my own, automate parts of development and content creation
+
+# I have a lot of ideas but my challenge is turning those ideas into real income streams. I want to learn how to validate ideas quickly and build things people actually want.
 
 def main():
     SidebarNav()
@@ -54,6 +66,9 @@ def main():
     st.divider()
 
     hedraImage()
+    st.divider()
+
+    hedraVideo()
     st.divider()
 
 
