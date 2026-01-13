@@ -69,3 +69,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# https://www.monetizedmarketingtraining.com/ai-marketing-summit-2025-recordings-may150211705512687/ai-marketing-summit-2025-recordings-may/ai-image-summit-recording3ef61a987a3d/
+
+# https://drive.google.com/drive/folders/1LiAa44LaKA8S81ItLlQhEvlxHyYaOTeg

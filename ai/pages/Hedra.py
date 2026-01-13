@@ -13,11 +13,13 @@ def intro():
 def hedraImage():
     st.markdown("### :rainbow[Creating an Image with Hedra]")
     st.markdown("""
-                #### :green[Example Prompt ]
+                #### :green[Example Prompt To Generate An Image ]
                 :blue[**"Create a African American women between the ages of 35 to 40 with medium length locs pulled up in a high ponytail, 
                 wearing purple glasses and a purple jumpsuit she should be pixar style"**]
 
-                #### :green[Example Prompt: Add this prompt to ChatGPT to refine it further ]
+                #### :violet[**You can use ChatGPT to help you come up with better prompts for generating images!**]
+
+                ##### :green[Example Prompt To Refine Your Prompt]
                 :blue[**"Rewrite this prompt for a AI image generator to make it better: A African American women between the ages of 35 to 40 with medium length locs 
                             pulled up in a high ponytail, with a slim face and wearing purple glasses and a purple fitted jumpsuit she should be pixar style**"]
                 
@@ -28,12 +30,25 @@ def hedraImage():
 
 
                 :red[Use the refined prompt in Hedra to generate a better image]
+
+                
                 """)
 
 def hedraVideo():
     st.markdown("### :rainbow[Creating a Video with Hedra]")
     st.markdown("""
-                #### :green[Example Prompt ]
+                
+                #### :violet[**You can use ChatGPT to help you come up with better prompts for generating videos!**]
+                #### :green[Example ChatGPT Prompt To Generate A Video Script]
+                :blue[**"ok- now i would like for the women to tell me what her goal is for learning AI to create social 
+                media content and for her professional career as a software developer. She has ideas of the things she 
+                can create with AI but doesn't really know how to implement them in a way to generate income."**]
+
+                #### :green[Example ChatGPT Prompt To Refine to describe the actions of the character in the video ]
+                :blue[**"Rewrite this prompt for a AI video generator to make it better: The women looks forward and then starts 
+                         speaking, while smiling and making gestures with her hands and moving her head in a way a human would do when speaking."**]
+                
+                #### :green[ChatGPT Rewritten Prompt ]
                 :blue[**"The woman faces the camera and begins speaking after a brief natural pause, wearing a warm, confident smile. 
                 As she talks, she uses relaxed, expressive hand gestures to emphasize key points without overexaggeration. Her head 
                 and upper body move naturally—small nods, gentle tilts, and slight shifts that reflect engagement and thoughtfulness. 
@@ -54,11 +69,7 @@ def hedraVideo2():
         
 
 
-#         My goal for learning AI is to turn my ideas into things people actually want to use, share, and pay for. I want to create content that blends creativity with technical insight.
 
-# Professionally I want to use it to prototype ideas faster, build small products and tools on my own, automate parts of development and content creation
-
-# I have a lot of ideas but my challenge is turning those ideas into real income streams. I want to learn how to validate ideas quickly and build things people actually want.
 
 def main():
     SidebarNav()
@@ -75,3 +86,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# https://www.monetizedmarketingtraining.com/ai-marketing-summit-2025-recordings-may150211705512687/ai-marketing-summit-2025-recordings-may/ai-image-summit-recording3ef61a987a3d/
+
+
+# https://indecisive-enquiry-647.notion.site/Hedra-Training-2000cfd9f3e08009984af31ea9d06bb3

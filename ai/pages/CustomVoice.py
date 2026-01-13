@@ -172,3 +172,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# https://indecisive-enquiry-647.notion.site/Custom-Voice-Instructions-Your-AI-Writing-Guide-02d7ffd74fd1472e8bf456d4b4789781
