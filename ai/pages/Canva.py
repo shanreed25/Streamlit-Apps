@@ -8,7 +8,10 @@ def intro():
                 It offers tools such as AI-powered design suggestions, image generation, background removal, and text enhancements to help users create visually appealing content more efficiently.
                 """)
     
-    st.markdown("Canva AI: https://www.canva.com/features/ai/")
+    st.markdown("Canva AI: https://www.canva.com/ai")
+
+    st.header("Website")
+    st.markdown("https://www.canva.com/ai/code")
 
 
 def main():

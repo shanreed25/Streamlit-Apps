@@ -45,3 +45,28 @@ She asks, with a gentle but firm tone, if he plans to go outside and get some fr
 He then briefly turns his head to look at his mother with a playful grin. She responds immediately and emphatically, “Of course not!” Kitai smirks, turns his attention back to the game, and replies, “You’ve answered your own question,” continuing to play throughout the entire interaction.
 
 Character movements are natural and human-like, with subtle hand motions on the controller, realistic head turns, expressive facial reactions, and smooth conversational timing. -->
+
+
+
+<!-- 
+pocket guide
+handbook
+48hourbooks.com 
+
+
+Sign up for Hello Audio- http://alicialyttle.com/helloaudio
+
+Sign up now- Hailuoai.video
+
+Sign up for Kling- Https://alicialyttle.com/kling
+
+Sign up now- Https://thelegacygrant.com
+
+Sign up for Gemini- https://gemini.google.com/
+
+Sign up for Big VU- https://bigvu.tv
+
+Sign up for Manus- http://www.alicialyttle.com/manus
+
+
+-->

@@ -16,3 +16,4 @@ def SidebarNav():
         st.page_link('pages/Canva.py', label='Canva AI', icon='📍')
         st.page_link('pages/SmithAI.py', label='Smith AI', icon='📍')
         st.page_link('pages/ElevenLabs.py', label='ElevenLabs', icon='📍')
+        st.page_link('pages/HeyGen.py', label='HeyGen AI', icon='📍')
