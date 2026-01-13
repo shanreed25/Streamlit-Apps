@@ -4,8 +4,7 @@ from modules.navigation import SidebarNav
 def intro():
     st.title("Smith AI")
     st.markdown("""
-    #### :rainbow[Smith AI is a virtual receptionist and client engagement platform that utilizes artificial intelligence to provide businesses with 24/7 customer support and lead management. 
-    # It offers services such as answering calls, scheduling appointments, qualifying leads, and providing information to enhance customer interactions and streamline business operations.]
+    **Smith AI is a virtual receptionist and client engagement platform that utilizes artificial intelligence to provide businesses with 24/7 customer support and lead management**
                 """)
     
     st.markdown("Smith AI: https://smith.ai/")
@@ -14,3 +13,11 @@ def intro():
 
 
     # https://www.monetizedmarketingtraining.com/ai-marketing-summit-2025-recordings-may150211705512687/ai-marketing-summit-2025-recordings-may/ai-image-summit-recording3ef61a987a3d/
+
+
+def main():
+    SidebarNav()
+    intro()
+
+if __name__ == "__main__":
+    main()
