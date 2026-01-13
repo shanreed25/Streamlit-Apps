@@ -11,3 +11,4 @@ def SidebarNav():
         st.page_link('pages/CustomVoice.py', label='Customize Your Voice', icon='📍')
         st.page_link('pages/ContentDetector.py', label='Content Detector', icon='📍')
         st.page_link('pages/MachineLearning.py', label='Machine Learning', icon='📍')
+        st.page_link('pages/Hedra.py', label='Hedra AI', icon='📍')
