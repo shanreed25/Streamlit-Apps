@@ -9,6 +9,8 @@ def intro():
                 to everyone and is user-friendly, allowing you to easily create 
                 and utilize AI models without needing extensive technical knowledge**
                 """)
+    
+    st.markdown("Hedra AI: https://hedra.com/")
 
 def hedraImage():
     st.markdown("### :rainbow[Creating an Image with Hedra]")

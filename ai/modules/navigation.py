@@ -12,3 +12,5 @@ def SidebarNav():
         st.page_link('pages/ContentDetector.py', label='Content Detector', icon='📍')
         st.page_link('pages/MachineLearning.py', label='Machine Learning', icon='📍')
         st.page_link('pages/Hedra.py', label='Hedra AI', icon='📍')
+        st.page_link('pages/Gemini.py', label='Google Gemini', icon='📍')
+        st.page_link('pages/Canva.py', label='Canva AI', icon='📍')

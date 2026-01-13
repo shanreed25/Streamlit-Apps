@@ -31,3 +31,17 @@ I have a lot of ideas—apps, digital tools, educational content, productivity h
 Refine this prompt for a video prompt: The women looks forward and then starts speaking, while smiling and making gestures with her hands and moving her head in a way a human would do when speaking
 
 -->
+
+
+
+<!-- 
+Refine this prompt for a video generator: In his vibrant bedroom a African American boy name Kitai sits on his bed playing his Xbox. His bedroom door opens and his mother enters and ask if he is going to go outside to get some fresh air today. While continuing to playing the game he replies "Can I take the Xbox with me" and looks at his mother with a slight grin and his mother replies "Of Course Not!!!!" Then he replies "You have answered your own question" while continuing to play the game during the whole interaction with his mother
+
+REFINED PROMPT
+Inside a vibrant, colorful bedroom, an African American boy named Kitai sits on his bed, fully focused on playing an Xbox game. The room reflects his personality with youthful décor and soft, natural lighting. The bedroom door opens and his mother enters, standing near the doorway.
+
+She asks, with a gentle but firm tone, if he plans to go outside and get some fresh air today. Kitai continues playing without pausing the game. Without looking away from the screen at first, he casually replies, “Can I take the Xbox with me?”
+
+He then briefly turns his head to look at his mother with a playful grin. She responds immediately and emphatically, “Of course not!” Kitai smirks, turns his attention back to the game, and replies, “You’ve answered your own question,” continuing to play throughout the entire interaction.
+
+Character movements are natural and human-like, with subtle hand motions on the controller, realistic head turns, expressive facial reactions, and smooth conversational timing. -->

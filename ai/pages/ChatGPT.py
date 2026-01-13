@@ -3,7 +3,14 @@ from modules.navigation import SidebarNav
 
 def main():
     SidebarNav()
-    st.title("Getting Started with ChatGPT!")
+    st.title("ChatGPT")
+
+    st.markdown(""" ChatGPT is an advanced language model developed by OpenAI, based on the GPT (Generative Pre-trained Transformer) architecture.
+                It is designed to understand and generate human-like text based on the input it receives.
+                ChatGPT can perform a wide range of natural language processing tasks, including answering questions, engaging in conversations, providing explanations, and generating creative content.
+                """)
+    
+    st.markdown("ChatGPT: https://chatgpt.com")
 
     st.markdown("""
     #### :rainbow[Sign Up for ChatGPT]
